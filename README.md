@@ -9,6 +9,9 @@ Vicuna：https://vicuna.lmsys.org/
  
 流萤（中文对话式大模型）：https://github.com/yangjianxin1/Firefly
 
+BELLE：https://github.com/LianjiaTech/BELLE
+ - Be Everyone's Large Language model Engine（开源中文对话大模型）
+ 
 TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
 
 ## LLMs pruners:
