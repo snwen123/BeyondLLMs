@@ -15,7 +15,7 @@ BELLE：https://github.com/LianjiaTech/BELLE
 TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
 
 ## LLMs微调
- - 轻量化微调工具：https://github.com/OpenLMLab/TuneLite
+ - 轻量化微调工具：https://github.com/OpenLMLab/TuneLite  支持Coloss
 
 ## LLMs pruners:
 LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
