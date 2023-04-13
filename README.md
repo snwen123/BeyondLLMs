@@ -19,10 +19,10 @@ TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
 
 ## LLMs finetuning
  - 轻量化微调工具：https://github.com/OpenLMLab/TuneLite  支持Coloss
-
+ - 混合精度训练、DDP、gradient checkpoing：https://zhuanlan.zhihu.com/p/448395808
+ - 
 ## LLMs pruners:
 LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
-
 
 ## LLMs interpretability
 
@@ -31,6 +31,7 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
     
  What does ChatGPT return about human values? Exploring value bias in ChatGPT using a descriptive value theory
    用描述性价值理论探索ChatGPT的价值偏差
+   
 ## 资料汇总
 1. 类ChatGPT模型汇总：https://github.com/chenking2020/FindTheChatGPTer
 2. 类ChatGPT模型汇总（模型、数据、评估）：https://github.com/FreedomIntelligence/LLMZoo
