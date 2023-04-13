@@ -3,10 +3,22 @@ Some note about LLMs
 
 ## LLMs model
 
+Alpaca：https://github.com/tatsu-lab/stanford_alpaca
+
 Vicuna：https://vicuna.lmsys.org/
  - Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality
  - UC Berkeley, CMU, Stanford, and UC San Diego
  
+Dolly: https://github.com/databrickslabs/dolly
+ - Databricks
+ 
+DeepSpeed-Chat：https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat
+ - 微软
+ - RLHF全流程
+
+LMFlow：https://github.com/OptimalScale/LMFlow
+ - 港科大
+
 流萤（中文对话式大模型）：https://github.com/yangjianxin1/Firefly
 
 BELLE：https://github.com/LianjiaTech/BELLE
