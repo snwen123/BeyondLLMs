@@ -1,7 +1,7 @@
 # BeyondLLMs
 Some note about LLMs
 
-## LLMs
+## LLMs model
 
 Vicuna：https://vicuna.lmsys.org/
  - Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality
@@ -14,7 +14,10 @@ BELLE：https://github.com/LianjiaTech/BELLE
  
 TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
 
-## LLMs微调
+## LLMs data
+ - 指令数据集合: https://github.com/FreedomIntelligence/InstructionZoo
+
+## LLMs finetuning
  - 轻量化微调工具：https://github.com/OpenLMLab/TuneLite  支持Coloss
 
 ## LLMs pruners:
@@ -29,4 +32,5 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
  What does ChatGPT return about human values? Exploring value bias in ChatGPT using a descriptive value theory
    用描述性价值理论探索ChatGPT的价值偏差
 ## 资料汇总
-1. https://github.com/chenking2020/FindTheChatGPTer
+1. 类ChatGPT模型汇总：https://github.com/chenking2020/FindTheChatGPTer
+2. 类ChatGPT模型汇总（模型、数据、评估）：https://github.com/FreedomIntelligence/LLMZoo
