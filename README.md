@@ -23,6 +23,11 @@ LMFlow：https://github.com/OptimalScale/LMFlow
 
 BELLE：https://github.com/LianjiaTech/BELLE
  - Be Everyone's Large Language model Engine（开源中文对话大模型）
+
+医疗领域ChatGPT：
+ - https://github.com/cambridgeltl/visual-med-alpaca ， 基于LLaMA-7B，含有LoRa版本
+ - github.com/kbressem/medAlpaca 基于LLaMA-7B
+ - 
  
 TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
 
@@ -32,7 +37,10 @@ TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
 ## LLMs finetuning
  - 轻量化微调工具：https://github.com/OpenLMLab/TuneLite  支持Coloss
  - 混合精度训练、DDP、gradient checkpoing：https://zhuanlan.zhihu.com/p/448395808
- - 
+
+## LLMs evaluation
+ - https://github.com/ninehills/llm-playground  可同时比较多个prompt和多个chatGPT的输出
+
 ## LLMs pruners:
 LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
 
