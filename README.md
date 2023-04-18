@@ -11,13 +11,15 @@ Vicuna：https://vicuna.lmsys.org/
  
 Dolly: https://github.com/databrickslabs/dolly
  - Databricks
- 
+
+Alpaca-CoT：https://github.com/PhoebusSi/Alpaca-CoT/blob/main/CN_README.md
+ - 指令数据集比较多
+
 DeepSpeed-Chat：https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat
- - 微软
- - RLHF全流程
+ - 微软，RLHF全流程
 
 LMFlow：https://github.com/OptimalScale/LMFlow
- - 港科大
+ - 港科大，task tuning, instruction tuning, alignment tuning, evaluation, inference，都有，流程比较全面
 
 流萤（中文对话式大模型）：https://github.com/yangjianxin1/Firefly
 
