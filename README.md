@@ -15,6 +15,8 @@ Dolly: https://github.com/databrickslabs/dolly
 Alpaca-CoT：https://github.com/PhoebusSi/Alpaca-CoT/blob/main/CN_README.md
  - 指令数据集比较多
 
+PiXiu-貔貅: https://github.com/catqaq/ChatPiXiu
+
 DeepSpeed-Chat：https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat
  - 微软，RLHF全流程
 
