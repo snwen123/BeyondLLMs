@@ -20,6 +20,9 @@ PiXiu-貔貅: https://github.com/catqaq/ChatPiXiu
 DeepSpeed-Chat：https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat
  - 微软，RLHF全流程
 
+Open Assistant：
+ - 开源聊天模型Open Assistant正式发布，包含大量AI生成的、人工标注的语料库和包括基于LLaMA和基于Pythia的多种模型可选。发布的数据集包括超过161K较高质量的，多达35种语言的人工助手型交互对话语料库
+
 LMFlow：https://github.com/OptimalScale/LMFlow
  - 港科大，task tuning, instruction tuning, alignment tuning, evaluation, inference，都有，流程比较全面
 
@@ -31,12 +34,14 @@ BELLE：https://github.com/LianjiaTech/BELLE
 医疗领域ChatGPT：
  - https://github.com/cambridgeltl/visual-med-alpaca ， 基于LLaMA-7B，含有LoRa版本
  - github.com/kbressem/medAlpaca 基于LLaMA-7B
+ - https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese ， 华佗
  - 
  
 TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
 
 ## LLMs data
  - 指令数据集合: https://github.com/FreedomIntelligence/InstructionZoo
+ - 指令数据生产：https://github.com/togethercomputer/RedPajama-Data
 
 ## LLMs finetuning
  - 轻量化微调工具：https://github.com/OpenLMLab/TuneLite  支持Coloss
@@ -48,6 +53,9 @@ TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
 ## LLMs pruners:
 LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
 
+## LLMs usage:
+ - 使用自然语言绘制流程图：https://github.com/fraserxu/diagram-gpt
+
 ## LLMs interpretability
 
  Interpretable Unified Language Checking
@@ -55,6 +63,10 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
     
  What does ChatGPT return about human values? Exploring value bias in ChatGPT using a descriptive value theory
    用描述性价值理论探索ChatGPT的价值偏差
+ 
+## LLMs with security, privacy 
+ - 《Toxicity in ChatGPT: Analyzing Persona-assigned Language Models》A Deshpande, V Murahari, T Rajpurohit, A Kalyan, K Narasimhan [Princeton University & The Allen Institute for AI & Georgia Tech] (2023)
+ - 《Multi-step Jailbreaking Privacy Attacks on ChatGPT》H Li, D Guo, W Fan, M Xu, Y Song [Hong Kong University of Science and Technology & Peking University] (2023)
    
 ## 资料汇总
 1. 类ChatGPT模型汇总：https://github.com/chenking2020/FindTheChatGPTer
