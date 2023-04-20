@@ -34,7 +34,8 @@ BELLE：https://github.com/LianjiaTech/BELLE
 医疗领域ChatGPT：
  - https://github.com/cambridgeltl/visual-med-alpaca ， 基于LLaMA-7B，含有LoRa版本
  - github.com/kbressem/medAlpaca 基于LLaMA-7B
- - https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese ， 华佗
+ - https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese ， 华佗，基于LLaMA的医疗领域微调
+ - github.com/SCIR-HI/Med-ChatGLM 基于ChatGML的医疗领域微调
  - 
  
 TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
@@ -55,6 +56,8 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
 
 ## LLMs usage:
  - 使用自然语言绘制流程图：https://github.com/fraserxu/diagram-gpt
+ - github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide  大模型构建应用
+ - github.com/yanqiangmiffy/Chinese-LangChain  大模型构建应用
 
 ## LLMs interpretability
 
