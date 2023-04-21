@@ -74,3 +74,4 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
 ## 资料汇总
 1. 类ChatGPT模型汇总：https://github.com/chenking2020/FindTheChatGPTer
 2. 类ChatGPT模型汇总（模型、数据、评估）：https://github.com/FreedomIntelligence/LLMZoo
+3. 中文图像数据标注工具：https://github.com/opendatalab/labelU/blob/release/v0.5.5/README_zh-CN.md
