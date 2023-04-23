@@ -15,6 +15,9 @@ Dolly: https://github.com/databrickslabs/dolly
 Alpaca-CoT：https://github.com/PhoebusSi/Alpaca-CoT/blob/main/CN_README.md
  - 指令数据集比较多
 
+Chenise-llama-alpaca-lora：github.com/zhangnn520/chinese_llama_alpaca_lora
+ - 中文LLaMA，信息抽取
+
 PiXiu-貔貅: https://github.com/catqaq/ChatPiXiu
 
 DeepSpeed-Chat：https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat
@@ -31,18 +34,21 @@ LMFlow：https://github.com/OptimalScale/LMFlow
 BELLE：https://github.com/LianjiaTech/BELLE
  - Be Everyone's Large Language model Engine（开源中文对话大模型）
 
+MOSS：github.com/OpenLMLab/MOSS
+ - 复旦大学
+
 医疗领域ChatGPT：
  - https://github.com/cambridgeltl/visual-med-alpaca ， 基于LLaMA-7B，含有LoRa版本
  - github.com/kbressem/medAlpaca 基于LLaMA-7B
  - https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese ， 华佗，基于LLaMA的医疗领域微调
  - github.com/SCIR-HI/Med-ChatGLM 基于ChatGML的医疗领域微调
- - 
  
 TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
 
 ## LLMs data
  - 指令数据集合: https://github.com/FreedomIntelligence/InstructionZoo
  - 指令数据生产：https://github.com/togethercomputer/RedPajama-Data
+ - 指令数据集：github.com/raunak-agarwal/instruction-datasets
 
 ## LLMs finetuning
  - 轻量化微调工具：https://github.com/OpenLMLab/TuneLite  支持Coloss
@@ -76,3 +82,4 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
 1. 类ChatGPT模型汇总：https://github.com/chenking2020/FindTheChatGPTer
 2. 类ChatGPT模型汇总（模型、数据、评估）：https://github.com/FreedomIntelligence/LLMZoo
 3. 中文图像数据标注工具：https://github.com/opendatalab/labelU/blob/release/v0.5.5/README_zh-CN.md
+4. 类ChatGPT模型，ChatGPT相关论文汇总：https://github.com/MLNLP-World/Awesome-LLM
