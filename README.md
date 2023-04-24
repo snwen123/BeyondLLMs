@@ -42,7 +42,10 @@ MOSS：github.com/OpenLMLab/MOSS
  - github.com/kbressem/medAlpaca 基于LLaMA-7B
  - https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese ， 华佗，基于LLaMA的医疗领域微调
  - github.com/SCIR-HI/Med-ChatGLM 基于ChatGML的医疗领域微调
- 
+
+金融领域ChatGPT:
+ - https://finchat.io/
+
 TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
 
 ## LLMs data
@@ -65,6 +68,7 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
  - 使用自然语言绘制流程图：https://github.com/fraserxu/diagram-gpt
  - github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide  大模型构建应用
  - github.com/yanqiangmiffy/Chinese-LangChain  大模型构建应用
+ - https://github.com/plchld/InsightFlow  LLM用于转录、翻译、分析网页等应用。基于AI技术的解决方案，可从视频、文档等中提取有价值的洞察，实现即时、上下文感知的聊天式查询
 
 ## LLMs interpretability
 
@@ -83,3 +87,4 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
 2. 类ChatGPT模型汇总（模型、数据、评估）：https://github.com/FreedomIntelligence/LLMZoo
 3. 中文图像数据标注工具：https://github.com/opendatalab/labelU/blob/release/v0.5.5/README_zh-CN.md
 4. 类ChatGPT模型，ChatGPT相关论文汇总：https://github.com/MLNLP-World/Awesome-LLM
+5. https://blog.replit.com/llm-training: How to train your own Large Language Models
