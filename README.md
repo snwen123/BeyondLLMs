@@ -52,6 +52,7 @@ TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
  - 指令数据集合: https://github.com/FreedomIntelligence/InstructionZoo
  - 指令数据生产：https://github.com/togethercomputer/RedPajama-Data
  - 指令数据集：github.com/raunak-agarwal/instruction-datasets
+ - 指令数据集：https://github.com/voidful/awesome-chatgpt-dataset
 
 ## LLMs finetuning
  - 轻量化微调工具：https://github.com/OpenLMLab/TuneLite  支持Coloss
