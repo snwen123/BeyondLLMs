@@ -46,8 +46,11 @@ MOSS：github.com/OpenLMLab/MOSS
 金融领域ChatGPT:
  - https://finchat.io/
 
-
+miniGPT-4:
  - https://github.com/Vision-CAIR/MiniGPT-4
+
+中文增量预训练的LLaMA-7B
+ - https://github.com/OpenLMLab/OpenChineseLLaMA
 
 TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
 
