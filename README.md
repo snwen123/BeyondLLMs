@@ -46,6 +46,9 @@ MOSS：github.com/OpenLMLab/MOSS
 金融领域ChatGPT:
  - https://finchat.io/
 
+
+ - https://github.com/Vision-CAIR/MiniGPT-4
+
 TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
 
 ## LLMs data
