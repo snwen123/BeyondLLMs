@@ -49,8 +49,9 @@ MOSS：github.com/OpenLMLab/MOSS
 miniGPT-4:
  - https://github.com/Vision-CAIR/MiniGPT-4
 
-中文增量预训练的LLaMA-7B
- - https://github.com/OpenLMLab/OpenChineseLLaMA
+中文增量预训练的LLaMA
+ - https://github.com/OpenLMLab/OpenChineseLLaMA ， LLaMA-7B
+ - https://github.com/ymcui/Chinese-LLaMA-Alpaca  ， LLaMA-7B、LLaMA-13B
 
 TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
 
