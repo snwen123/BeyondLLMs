@@ -66,8 +66,12 @@ TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
  - 混合精度训练、DDP、gradient checkpoing：https://zhuanlan.zhihu.com/p/448395808
  - 基于ChatGLM的几种精调方法：https://github.com/hiyouga/ChatGLM-Efficient-Tuning/blob/main/README_zh.md
 
+## LLMs for code generation 
+ - 基于LLaMA－7B: https://github.com/FSoft-AI4Code/CodeCapybara#humaneval
+
 ## LLMs evaluation
  - https://github.com/ninehills/llm-playground  可同时比较多个prompt和多个chatGPT的输出
+ - https://github.com/mbzuai-nlp/LaMini-LM  使用多个nlp下游任务
 
 ## LLMs pruners:
 LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
@@ -96,3 +100,4 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
 3. 中文图像数据标注工具：https://github.com/opendatalab/labelU/blob/release/v0.5.5/README_zh-CN.md
 4. 类ChatGPT模型，ChatGPT相关论文汇总：https://github.com/MLNLP-World/Awesome-LLM
 5. https://blog.replit.com/llm-training: How to train your own Large Language Models
+6. 基础模型相关文献资源列表：github.com/uncbiag/Awesome-Foundation-Models
