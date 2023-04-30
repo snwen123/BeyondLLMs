@@ -49,6 +49,9 @@ Lamini:  https://lamini.ai/
 金融领域ChatGPT:
  - https://finchat.io/
 
+法律领域ChatGPT:
+ - github.com/LiuHC0428/LAW-GPT 中文法律对话语言模型
+
 miniGPT-4:
  - https://github.com/Vision-CAIR/MiniGPT-4
 
@@ -60,6 +63,7 @@ TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
 
 ## milti-model LLMs
  - github.com/open-mmlab/Multimodal-GPT  基于OpenFlamingo多模态模型，使用各种开放数据集创建各种视觉指导数据，联合训练视觉和语言指导，有效提高模型性能
+ - 《mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality}》(2023) GitHub: github.com/X-PLUG/mPLUG-Owl
 
 ## LLMs data
  - 指令数据集合: https://github.com/FreedomIntelligence/InstructionZoo
@@ -99,6 +103,7 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
 ## LLMs with security, privacy 
  - 《Toxicity in ChatGPT: Analyzing Persona-assigned Language Models》A Deshpande, V Murahari, T Rajpurohit, A Kalyan, K Narasimhan [Princeton University & The Allen Institute for AI & Georgia Tech] (2023)
  - 《Multi-step Jailbreaking Privacy Attacks on ChatGPT》H Li, D Guo, W Fan, M Xu, Y Song [Hong Kong University of Science and Technology & Peking University] (2023)
+ - github.com/Cranot/chatbot-injections-exploits 收集了一些Chatbot注入和漏洞的例子，以帮助人们了解Chatbot的潜在漏洞和脆弱性
    
 ## 资料汇总
 1. 类ChatGPT模型汇总：https://github.com/chenking2020/FindTheChatGPTer
