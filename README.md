@@ -112,3 +112,4 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
 4. 类ChatGPT模型，ChatGPT相关论文汇总：https://github.com/MLNLP-World/Awesome-LLM
 5. https://blog.replit.com/llm-training: How to train your own Large Language Models
 6. 基础模型相关文献资源列表：github.com/uncbiag/Awesome-Foundation-Models
+7. LLaMA系列模型综述：https://agi-sphere.com/llama-models/?continueFlag=55e456ec3bc9bcf0d27e8ecc80f8e10d
