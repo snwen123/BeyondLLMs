@@ -52,6 +52,9 @@ Lamini:  https://lamini.ai/
 法律领域ChatGPT:
  - github.com/LiuHC0428/LAW-GPT 中文法律对话语言模型
 
+化学领域ChatGPT:
+ - github.com/OpenBioML/chemnlp
+
 miniGPT-4:
  - https://github.com/Vision-CAIR/MiniGPT-4
 
