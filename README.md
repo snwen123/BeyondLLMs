@@ -85,6 +85,7 @@ TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
 ## LLMs evaluation
  - https://github.com/ninehills/llm-playground  可同时比较多个prompt和多个chatGPT的输出
  - https://github.com/mbzuai-nlp/LaMini-LM  使用多个nlp下游任务
+ - https://github.com/WeOpenML/PandaLM/blob/main/README.md  可复现的自动化评估大语言模型
 
 ## LLMs pruners:
 LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
