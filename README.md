@@ -40,11 +40,15 @@ MOSS：github.com/OpenLMLab/MOSS
 Lamini:  https://lamini.ai/
  - 基于统一接口的大语言模型
 
+bactrain-x: https://github.com/mbzuai-nlp/bactrian-x
+ - 多语言指令遵循模型
+
 医疗领域ChatGPT：
  - https://github.com/cambridgeltl/visual-med-alpaca ， 基于LLaMA-7B，含有LoRa版本
  - github.com/kbressem/medAlpaca 基于LLaMA-7B
  - https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese ， 华佗，基于LLaMA的医疗领域微调
  - github.com/SCIR-HI/Med-ChatGLM 基于ChatGML的医疗领域微调
+ - https://github.com/MediaBrain-SJTU/MedicalGPT-zh，基于ChatGLM-6B的中文医疗领域LoRa微调
 
 金融领域ChatGPT:
  - https://finchat.io/
