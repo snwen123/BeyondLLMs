@@ -48,7 +48,7 @@ bactrain-x: https://github.com/mbzuai-nlp/bactrian-x
  - github.com/kbressem/medAlpaca 基于LLaMA-7B
  - https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese ， 华佗，基于LLaMA的医疗领域微调
  - github.com/SCIR-HI/Med-ChatGLM 基于ChatGML的医疗领域微调
- - https://github.com/MediaBrain-SJTU/MedicalGPT-zh，基于ChatGLM-6B的中文医疗领域LoRa微调
+ - https://github.com/MediaBrain-SJTU/MedicalGPT-zh ，基于ChatGLM-6B的中文医疗领域LoRa微调
 
 金融领域ChatGPT:
  - https://finchat.io/
@@ -121,3 +121,4 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
 5. https://blog.replit.com/llm-training: How to train your own Large Language Models
 6. 基础模型相关文献资源列表：github.com/uncbiag/Awesome-Foundation-Models
 7. LLaMA系列模型综述：https://agi-sphere.com/llama-models/?continueFlag=55e456ec3bc9bcf0d27e8ecc80f8e10d
+8. 非官方ChatGPT资源合集：github.com/sindresorhus/awesome-chatgpt
