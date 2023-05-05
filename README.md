@@ -40,6 +40,9 @@ MOSS：github.com/OpenLMLab/MOSS
 Lamini:  https://lamini.ai/
  - 基于统一接口的大语言模型
 
+Lit-LLaMA:　https://github.com/Lightning-AI/lit-llama/tree/main
+ - LLaMA模型的精调
+
 bactrain-x: https://github.com/mbzuai-nlp/bactrian-x
  - 多语言指令遵循模型
 
