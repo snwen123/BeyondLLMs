@@ -66,7 +66,10 @@ miniGPT-4:
  - https://github.com/OpenLMLab/OpenChineseLLaMA ， LLaMA-7B
  - https://github.com/ymcui/Chinese-LLaMA-Alpaca  ， LLaMA-7B、LLaMA-13B
 
-TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
+LLMs和RL
+ - TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
+ - github.com/floodsung/LLM-with-RL-papers
+
 
 ## milti-model LLMs
  - github.com/open-mmlab/Multimodal-GPT  基于OpenFlamingo多模态模型，使用各种开放数据集创建各种视觉指导数据，联合训练视觉和语言指导，有效提高模型性能
