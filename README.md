@@ -72,7 +72,10 @@ miniGPT-4:
 LLMs和RL
  - TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
  - github.com/floodsung/LLM-with-RL-papers
+ - https://github.com/salesforce/HIVE   HIVE: Harnessing Human Feedback for Instructional Visual Editing.
 
+LLMs langchain
+ - https://github.com/ColinEberhardt/langchain-mini
 
 ## milti-model LLMs
  - github.com/open-mmlab/Multimodal-GPT  基于OpenFlamingo多模态模型，使用各种开放数据集创建各种视觉指导数据，联合训练视觉和语言指导，有效提高模型性能
@@ -83,6 +86,9 @@ LLMs和RL
  - 指令数据生产：https://github.com/togethercomputer/RedPajama-Data
  - 指令数据集：github.com/raunak-agarwal/instruction-datasets
  - 指令数据集：https://github.com/voidful/awesome-chatgpt-dataset
+
+## Medical QA data
+- https://github.com/abachaa
 
 ## LLMs finetuning
  - 轻量化微调工具：https://github.com/OpenLMLab/TuneLite  支持Coloss
