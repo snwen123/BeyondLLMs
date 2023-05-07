@@ -1,7 +1,7 @@
 # BeyondLLMs
 Some note about LLMs
 
-## LLMs model
+## LLMs models
 
 Alpaca：https://github.com/tatsu-lab/stanford_alpaca
 OpenAlpaca：github.com/yxuansu/OpenAlpaca，基于OpenLLaMa
