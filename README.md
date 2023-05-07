@@ -4,6 +4,7 @@ Some note about LLMs
 ## LLMs model
 
 Alpaca：https://github.com/tatsu-lab/stanford_alpaca
+OpenAlpaca：github.com/yxuansu/OpenAlpaca，基于OpenLLaMa
 
 Vicuna：https://vicuna.lmsys.org/
  - Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality
@@ -73,6 +74,7 @@ LLMs和RL
  - TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
  - github.com/floodsung/LLM-with-RL-papers
  - https://github.com/salesforce/HIVE   HIVE: Harnessing Human Feedback for Instructional Visual Editing.
+ - RLHF数据集：Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation，面向文本到图像生成的用户偏好开放数据集
 
 LLMs langchain
  - https://github.com/ColinEberhardt/langchain-mini
@@ -80,6 +82,7 @@ LLMs langchain
 ## milti-model LLMs
  - github.com/open-mmlab/Multimodal-GPT  基于OpenFlamingo多模态模型，使用各种开放数据集创建各种视觉指导数据，联合训练视觉和语言指导，有效提高模型性能
  - 《mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality}》(2023) GitHub: github.com/X-PLUG/mPLUG-Owl
+ - LLaVA：https://llava-vl.github.io/  使用GPT-4生成多模态指令
 
 ## LLMs data
  - 指令数据集合: https://github.com/FreedomIntelligence/InstructionZoo
