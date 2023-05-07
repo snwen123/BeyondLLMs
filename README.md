@@ -43,6 +43,7 @@ Lamini:  https://lamini.ai/
 
 Lit-LLaMA:　https://github.com/Lightning-AI/lit-llama/tree/main
  - LLaMA模型的精调
+ - 来自Lit-LLaMA的lit-stablelm：https://github.com/Lightning-AI/lit-stablelm
 
 bactrain-x: https://github.com/mbzuai-nlp/bactrian-x
  - 多语言指令遵循模型
@@ -52,7 +53,7 @@ bactrain-x: https://github.com/mbzuai-nlp/bactrian-x
  - github.com/kbressem/medAlpaca 基于LLaMA-7B
  - https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese ， 华佗，基于LLaMA的医疗领域微调
  - github.com/SCIR-HI/Med-ChatGLM 基于ChatGML的医疗领域微调
- - https://github.com/MediaBrain-SJTU/MedicalGPT-zh ，基于ChatGLM-6B的中文医疗领域LoRa微调
+ - https://github.com/MediaBrain-SJTU/MedicalGPT-zh ，基于ChatGLM-6B的中文医疗领域LoRa微调。中文医疗通用语言模型，基于28个科室的医疗共识与临床指南文本，提高模型的医疗领域知识与对话能力
 
 金融领域ChatGPT:
  - https://finchat.io/
@@ -114,6 +115,7 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
  - github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide  大模型构建应用
  - github.com/yanqiangmiffy/Chinese-LangChain  大模型构建应用
  - https://github.com/plchld/InsightFlow  LLM用于转录、翻译、分析网页等应用。基于AI技术的解决方案，可从视频、文档等中提取有价值的洞察，实现即时、上下文感知的聊天式查询
+ - The Ultimate GPT-4 Guide: ChatGPT和GPT-4用法，用于教学领域等
 
 ## LLMs interpretability
 
