@@ -116,6 +116,8 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
  - github.com/yanqiangmiffy/Chinese-LangChain  大模型构建应用
  - https://github.com/plchld/InsightFlow  LLM用于转录、翻译、分析网页等应用。基于AI技术的解决方案，可从视频、文档等中提取有价值的洞察，实现即时、上下文感知的聊天式查询
  - The Ultimate GPT-4 Guide: ChatGPT和GPT-4用法，用于教学领域等
+ - 从接口调用chatGPT，从数据源（pdf, ppt, word, 网页等）中提取答案：https://github.com/geeks-of-data/knowledge-gpt
+ - https://github.com/xx025/carrot ChatGPT免费使用站点，使用方法，集成应用
 
 ## LLMs interpretability
 
