@@ -76,6 +76,7 @@ LLMs和RL
  - github.com/floodsung/LLM-with-RL-papers
  - https://github.com/salesforce/HIVE   HIVE: Harnessing Human Feedback for Instructional Visual Editing.
  - RLHF数据集：Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation，面向文本到图像生成的用户偏好开放数据集
+ - LLM人工偏好数据集相关资源列表,包括自然语言处理、计算机视觉和音乐生成等. github.com/glgh/awesome-llm-human-preference-datasets
 
 LLMs langchain
  - https://github.com/ColinEberhardt/langchain-mini
