@@ -119,6 +119,7 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
  - The Ultimate GPT-4 Guide: ChatGPT和GPT-4用法，用于教学领域等
  - 从接口调用chatGPT，从数据源（pdf, ppt, word, 网页等）中提取答案：https://github.com/geeks-of-data/knowledge-gpt
  - https://github.com/xx025/carrot ChatGPT免费使用站点，使用方法，集成应用
+ - https://github.com/emmethalm/infiniteGPT 批量向openai api提示的用法
 
 ## LLMs interpretability
 
