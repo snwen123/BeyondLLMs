@@ -67,6 +67,9 @@ bactrain-x: https://github.com/mbzuai-nlp/bactrian-x
 miniGPT-4:
  - https://github.com/Vision-CAIR/MiniGPT-4
 
+PaLM开源复现
+ - https://github.com/conceptofmind/PaLM
+
 中文增量预训练的LLaMA
  - https://github.com/OpenLMLab/OpenChineseLLaMA ， LLaMA-7B
  - https://github.com/ymcui/Chinese-LLaMA-Alpaca  ， LLaMA-7B、LLaMA-13B
