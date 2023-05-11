@@ -123,6 +123,7 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
  - 从接口调用chatGPT，从数据源（pdf, ppt, word, 网页等）中提取答案：https://github.com/geeks-of-data/knowledge-gpt
  - https://github.com/xx025/carrot ChatGPT免费使用站点，使用方法，集成应用
  - https://github.com/emmethalm/infiniteGPT 批量向openai api提示的用法
+ - github.com/csunny/DB-GPT DB-GPT：基于vicuna-13b和FastChat的开源实验项目，采用了langchain和llama-index技术进行上下文学习和问答。项目完全本地化部署，保证数据的隐私安全，能直接连接到私有数据库处理私有数据。其功能包括SQL生成、SQL诊断、数据库知识问答等
 
 ## LLMs interpretability
 
