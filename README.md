@@ -87,6 +87,7 @@ LLMs和RL
  - github.com/open-mmlab/Multimodal-GPT  基于OpenFlamingo多模态模型，使用各种开放数据集创建各种视觉指导数据，联合训练视觉和语言指导，有效提高模型性能
  - 《mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality}》(2023) GitHub: github.com/X-PLUG/mPLUG-Owl
  - LLaVA：https://llava-vl.github.io/  使用GPT-4生成多模态指令
+ - https://github.com/DAMO-NLP-SG/Video-LLaMA   视频指令
 
 ## LLMs data
  - 指令数据集合: https://github.com/FreedomIntelligence/InstructionZoo
