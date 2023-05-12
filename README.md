@@ -1,7 +1,7 @@
 # BeyondLLMs
 Some note about LLMs
 
-## LLMs models
+## general LLMs
 
 Alpaca：https://github.com/tatsu-lab/stanford_alpaca
 OpenAlpaca：github.com/yxuansu/OpenAlpaca，基于OpenLLaMa
@@ -48,22 +48,6 @@ Lit-LLaMA:　https://github.com/Lightning-AI/lit-llama/tree/main
 bactrain-x: https://github.com/mbzuai-nlp/bactrian-x
  - 多语言指令遵循模型
 
-医疗领域ChatGPT：
- - https://github.com/cambridgeltl/visual-med-alpaca ， 基于LLaMA-7B，含有LoRa版本
- - github.com/kbressem/medAlpaca 基于LLaMA-7B
- - https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese ， 华佗，基于LLaMA的医疗领域微调
- - github.com/SCIR-HI/Med-ChatGLM 基于ChatGML的医疗领域微调
- - https://github.com/MediaBrain-SJTU/MedicalGPT-zh ，基于ChatGLM-6B的中文医疗领域LoRa微调。中文医疗通用语言模型，基于28个科室的医疗共识与临床指南文本，提高模型的医疗领域知识与对话能力
-
-金融领域ChatGPT:
- - https://finchat.io/
-
-法律领域ChatGPT:
- - github.com/LiuHC0428/LAW-GPT 中文法律对话语言模型
-
-化学领域ChatGPT:
- - github.com/OpenBioML/chemnlp
-
 miniGPT-4:
  - https://github.com/Vision-CAIR/MiniGPT-4
 
@@ -74,15 +58,30 @@ PaLM开源复现
  - https://github.com/OpenLMLab/OpenChineseLLaMA ， LLaMA-7B
  - https://github.com/ymcui/Chinese-LLaMA-Alpaca  ， LLaMA-7B、LLaMA-13B
 
+## domain LLMs
+医疗领域ChatGPT：
+ - https://github.com/cambridgeltl/visual-med-alpaca ， 基于LLaMA-7B，含有LoRa版本
+ - github.com/kbressem/medAlpaca 基于LLaMA-7B
+ - https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese ， 华佗，基于LLaMA的医疗领域微调
+ - github.com/SCIR-HI/Med-ChatGLM 基于ChatGML的医疗领域微调
+ - https://github.com/MediaBrain-SJTU/MedicalGPT-zh ，基于ChatGLM-6B的中文医疗领域LoRa微调。中文医疗通用语言模型，基于28个科室的医疗共识与临床指南文本，提高模型的医疗领域知识与对话能力
+ - github.com/CogStack/OpenGPT  OpenGPT：用于创建基于指令的数据集并训练对话领域专家大型语言模型(LLMs)的框架。已经成功应用于训练健康护理对话模型NHS-LLM，利用来自英国国家卫生服务体系(NHS)网站的数据，生成了大量的问答对和独特对话。此外，OpenGPT还提供了如何创建并训练一个小型健康护理对话LLM的教程
+
+金融领域ChatGPT:
+ - https://finchat.io/
+
+法律领域ChatGPT:
+ - github.com/LiuHC0428/LAW-GPT 中文法律对话语言模型
+
+化学领域ChatGPT:
+ - github.com/OpenBioML/chemnlp
+
 LLMs和RL
  - TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
  - github.com/floodsung/LLM-with-RL-papers
  - https://github.com/salesforce/HIVE   HIVE: Harnessing Human Feedback for Instructional Visual Editing.
  - RLHF数据集：Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation，面向文本到图像生成的用户偏好开放数据集
  - LLM人工偏好数据集相关资源列表,包括自然语言处理、计算机视觉和音乐生成等. github.com/glgh/awesome-llm-human-preference-datasets
-
-LLMs langchain
- - https://github.com/ColinEberhardt/langchain-mini
 
 ## milti-model LLMs
  - github.com/open-mmlab/Multimodal-GPT  基于OpenFlamingo多模态模型，使用各种开放数据集创建各种视觉指导数据，联合训练视觉和语言指导，有效提高模型性能
@@ -94,9 +93,7 @@ LLMs langchain
  - 指令数据生产：https://github.com/togethercomputer/RedPajama-Data
  - 指令数据集：github.com/raunak-agarwal/instruction-datasets
  - 指令数据集：https://github.com/voidful/awesome-chatgpt-dataset
-
-## Medical QA data
-- https://github.com/abachaa
+ - Medical QA data  https://github.com/abachaa
 
 ## LLMs finetuning
  - 轻量化微调工具：https://github.com/OpenLMLab/TuneLite  支持Coloss
@@ -124,6 +121,8 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
  - https://github.com/xx025/carrot ChatGPT免费使用站点，使用方法，集成应用
  - https://github.com/emmethalm/infiniteGPT 批量向openai api提示的用法
  - github.com/csunny/DB-GPT DB-GPT：基于vicuna-13b和FastChat的开源实验项目，采用了langchain和llama-index技术进行上下文学习和问答。项目完全本地化部署，保证数据的隐私安全，能直接连接到私有数据库处理私有数据。其功能包括SQL生成、SQL诊断、数据库知识问答等
+ - LLMs langchain  https://github.com/ColinEberhardt/langchain-mini
+
 
 ## LLMs interpretability
 
