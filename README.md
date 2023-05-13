@@ -38,12 +38,18 @@ BELLE：https://github.com/LianjiaTech/BELLE
 MOSS：github.com/OpenLMLab/MOSS
  - 复旦大学
 
+Panda: github.com/dandelionsllm/pandallm
+ - 海外中文开源大语言模型，基于 Llama-7B, -13B, -33B, -65B 进行中文领域上的持续预训练，使用了接近15M条数据，并针对推理能力在中文benchmark上进行了评测
+
 Lamini:  https://lamini.ai/
  - 基于统一接口的大语言模型
 
 Lit-LLaMA:　https://github.com/Lightning-AI/lit-llama/tree/main
  - LLaMA模型的精调
  - 来自Lit-LLaMA的lit-stablelm：https://github.com/Lightning-AI/lit-stablelm
+
+LLMTune: https://github.com/kuleshov-group/llmtune
+ - 在消费级GPU上微调大型65B+LLM。可以在普通消费级GPU上进行4位微调，例如最大的65B LLAMA模型。LLMTune还实现了LoRA算法和GPTQ算法来压缩和量化LLM，并通过数据并行处理大型模型。此外，LLMTune提供了命令行界面和Python库的使用方式
 
 bactrain-x: https://github.com/mbzuai-nlp/bactrian-x
  - 多语言指令遵循模型
@@ -123,6 +129,7 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
  - https://github.com/emmethalm/infiniteGPT 批量向openai api提示的用法
  - github.com/csunny/DB-GPT DB-GPT：基于vicuna-13b和FastChat的开源实验项目，采用了langchain和llama-index技术进行上下文学习和问答。项目完全本地化部署，保证数据的隐私安全，能直接连接到私有数据库处理私有数据。其功能包括SQL生成、SQL诊断、数据库知识问答等
  - LLMs langchain  https://github.com/ColinEberhardt/langchain-mini
+ - DB-GPT: github.com/csunny/DB-GPT  基于vicuna-13b和FastChat的开源实验项目，采用了langchain和llama-index技术进行上下文学习和问答。项目完全本地化部署，保证数据的隐私安全，能直接连接到私有数据库处理私有数据。其功能包括SQL生成、SQL诊断、数据库知识问答等
 
 
 ## LLMs interpretability
