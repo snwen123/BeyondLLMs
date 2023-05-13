@@ -82,6 +82,7 @@ LLMs和RL
 
 ## LLMs for code generation 
  - 基于LLaMA－7B: https://github.com/FSoft-AI4Code/CodeCapybara#humaneval
+ - github.com/zxx000728/CodeGPT  CodeGPT: 提高编程能力的关键在于数据。CodeGPT是通过GPT生成的用于GPT的代码对话数据集。现在公开了32K条中文数据，让模型更擅长编程
 
 ## LLMs evaluation
  - https://github.com/ninehills/llm-playground  可同时比较多个prompt和多个chatGPT的输出
