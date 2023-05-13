@@ -8,60 +8,34 @@ Some note about LLMs
  - Vicuna：https://vicuna.lmsys.org/
    
    Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality. UC Berkeley, CMU, Stanford, and UC San Diego
- 
-Dolly: https://github.com/databrickslabs/dolly
- - Databricks
-
-Alpaca-CoT：https://github.com/PhoebusSi/Alpaca-CoT/blob/main/CN_README.md
- - 指令数据集比较多
-
-Chenise-llama-alpaca-lora：github.com/zhangnn520/chinese_llama_alpaca_lora
- - 中文LLaMA，信息抽取
-
-PiXiu-貔貅: https://github.com/catqaq/ChatPiXiu
-
-DeepSpeed-Chat：https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat
- - 微软，RLHF全流程
-
-Open Assistant：
- - 开源聊天模型Open Assistant正式发布，包含大量AI生成的、人工标注的语料库和包括基于LLaMA和基于Pythia的多种模型可选。发布的数据集包括超过161K较高质量的，多达35种语言的人工助手型交互对话语料库
-
-LMFlow：https://github.com/OptimalScale/LMFlow
- - 港科大，task tuning, instruction tuning, alignment tuning, evaluation, inference，都有，流程比较全面
-
-流萤（中文对话式大模型）：https://github.com/yangjianxin1/Firefly
-
-BELLE：https://github.com/LianjiaTech/BELLE
- - Be Everyone's Large Language model Engine（开源中文对话大模型）
-
-MOSS：github.com/OpenLMLab/MOSS
- - 复旦大学
-
-Panda: github.com/dandelionsllm/pandallm
- - 海外中文开源大语言模型，基于 Llama-7B, -13B, -33B, -65B 进行中文领域上的持续预训练，使用了接近15M条数据，并针对推理能力在中文benchmark上进行了评测
-
-Lamini:  https://lamini.ai/
- - 基于统一接口的大语言模型
-
-Lit-LLaMA:　https://github.com/Lightning-AI/lit-llama/tree/main
- - LLaMA模型的精调
- - 来自Lit-LLaMA的lit-stablelm：https://github.com/Lightning-AI/lit-stablelm
-
-LLMTune: https://github.com/kuleshov-group/llmtune
- - 在消费级GPU上微调大型65B+LLM。可以在普通消费级GPU上进行4位微调，例如最大的65B LLAMA模型。LLMTune还实现了LoRA算法和GPTQ算法来压缩和量化LLM，并通过数据并行处理大型模型。此外，LLMTune提供了命令行界面和Python库的使用方式
-
-bactrain-x: https://github.com/mbzuai-nlp/bactrian-x
- - 多语言指令遵循模型
-
-miniGPT-4:
- - https://github.com/Vision-CAIR/MiniGPT-4
-
-PaLM开源复现
- - https://github.com/conceptofmind/PaLM
-
-中文增量预训练的LLaMA
- - https://github.com/OpenLMLab/OpenChineseLLaMA ， LLaMA-7B
- - https://github.com/ymcui/Chinese-LLaMA-Alpaca  ， LLaMA-7B、LLaMA-13B
+ - Dolly: https://github.com/databrickslabs/dolly  Databricks
+ - Alpaca-CoT：https://github.com/PhoebusSi/Alpaca-CoT/blob/main/CN_README.md  指令数据集比较多
+ - Chenise-llama-alpaca-lora：github.com/zhangnn520/chinese_llama_alpaca_lora  中文LLaMA，信息抽取
+ - PiXiu-貔貅: https://github.com/catqaq/ChatPiXiu
+ - DeepSpeed-Chat：https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat  微软，RLHF全流程
+ - Open Assistant：开源聊天模型Open Assistant正式发布，包含大量AI生成的、人工标注的语料库和包括基于LLaMA和基于Pythia的多种模型可选。发布的数据集包括超过161K较高质量的，多达35种语言的人工助手型交互对话语料库
+ - LMFlow：https://github.com/OptimalScale/LMFlow  港科大，task tuning, instruction tuning, alignment tuning, evaluation, inference，都有，流程比较全面
+ - 流萤（中文对话式大模型）：https://github.com/yangjianxin1/Firefly
+ - BELLE：https://github.com/LianjiaTech/BELLE  Be Everyone's Large Language model Engine（开源中文对话大模型）
+ - MOSS：github.com/OpenLMLab/MOSS  复旦大学
+ - Panda: github.com/dandelionsllm/pandallm  海外中文开源大语言模型，基于 Llama-7B, -13B, -33B, -65B 进行中文领域上的持续预训练，使用了接近15M条数据，并针对推理能力在中文benchmark上进行了评测
+ - Lamini:  https://lamini.ai/   基于统一接口的大语言模型
+ - Lit-LLaMA:　https://github.com/Lightning-AI/lit-llama/tree/main
+   
+   LLaMA模型的精调
+   
+   来自Lit-LLaMA的lit-stablelm：https://github.com/Lightning-AI/lit-stablelm
+ - LLMTune: https://github.com/kuleshov-group/llmtune
+   
+   在消费级GPU上微调大型65B+LLM。可以在普通消费级GPU上进行4位微调，例如最大的65B LLAMA模型。LLMTune还实现了LoRA算法和GPTQ算法来压缩和量化LLM，并通过数据并行处理大型模型。此外，LLMTune提供了命令行界面和Python库的使用方式
+ - bactrain-x: https://github.com/mbzuai-nlp/bactrian-x  多语言指令遵循模型
+ - miniGPT-4:  https://github.com/Vision-CAIR/MiniGPT-4
+ - PaLM开源复现 https://github.com/conceptofmind/PaLM
+ - 中文增量预训练的LLaMA
+   
+   https://github.com/OpenLMLab/OpenChineseLLaMA ， LLaMA-7B
+   
+   https://github.com/ymcui/Chinese-LLaMA-Alpaca  ， LLaMA-7B、LLaMA-13B
 
 ## domain LLMs
 医疗领域ChatGPT：
