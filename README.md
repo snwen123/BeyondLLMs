@@ -3,12 +3,12 @@ Some note about LLMs
 
 ## general LLMs
 
-Alpaca：https://github.com/tatsu-lab/stanford_alpaca
-OpenAlpaca：github.com/yxuansu/OpenAlpaca，基于OpenLLaMa
+ - Alpaca：https://github.com/tatsu-lab/stanford_alpaca
+ - OpenAlpaca：github.com/yxuansu/OpenAlpaca 基于OpenLLaMa
 
-Vicuna：https://vicuna.lmsys.org/
- - Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality
- - UC Berkeley, CMU, Stanford, and UC San Diego
+ - Vicuna：https://vicuna.lmsys.org/
+   Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality
+   UC Berkeley, CMU, Stanford, and UC San Diego
  
 Dolly: https://github.com/databrickslabs/dolly
  - Databricks
