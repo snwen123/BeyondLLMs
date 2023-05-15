@@ -79,6 +79,7 @@ LLMs和RL
  - 轻量化微调工具：https://github.com/OpenLMLab/TuneLite  支持Coloss
  - 混合精度训练、DDP、gradient checkpoing：https://zhuanlan.zhihu.com/p/448395808
  - 基于ChatGLM的几种精调方法：https://github.com/hiyouga/ChatGLM-Efficient-Tuning/blob/main/README_zh.md
+ - 大语言模型精调技术笔记： https://github.com/ninehills/ninehills.github.io/issues/92
 
 ## LLMs for code generation 
  - 基于LLaMA－7B: https://github.com/FSoft-AI4Code/CodeCapybara#humaneval
