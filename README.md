@@ -130,3 +130,4 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
 7. LLaMA系列模型综述：https://agi-sphere.com/llama-models/?continueFlag=55e456ec3bc9bcf0d27e8ecc80f8e10d
 8. 非官方ChatGPT资源合集：github.com/sindresorhus/awesome-chatgpt
 9. https://github.com/RUCAIBox/LLMSurvey/tree/main
+10. 生成式人工智能（第二版）：https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition
