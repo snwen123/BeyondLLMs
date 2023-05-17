@@ -55,12 +55,13 @@ Some note about LLMs
 化学领域ChatGPT:
  - github.com/OpenBioML/chemnlp
 
-LLMs和RL
+## LLMs和RL
  - TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
  - github.com/floodsung/LLM-with-RL-papers
  - https://github.com/salesforce/HIVE   HIVE: Harnessing Human Feedback for Instructional Visual Editing.
  - RLHF数据集：Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation，面向文本到图像生成的用户偏好开放数据集
  - LLM人工偏好数据集相关资源列表,包括自然语言处理、计算机视觉和音乐生成等. github.com/glgh/awesome-llm-human-preference-datasets
+ - github.com/PKU-Alignment/safe-rlhf  安全强化学习人工反馈框架Beaver，保障AI对人类价值观的精准对齐。首个结合安全偏好的RLHF框架，支持多模型训练，数据可复现
 
 ## milti-model LLMs
  - github.com/open-mmlab/Multimodal-GPT  基于OpenFlamingo多模态模型，使用各种开放数据集创建各种视觉指导数据，联合训练视觉和语言指导，有效提高模型性能
@@ -84,6 +85,7 @@ LLMs和RL
 ## LLMs for code generation 
  - 基于LLaMA－7B: https://github.com/FSoft-AI4Code/CodeCapybara#humaneval
  - github.com/zxx000728/CodeGPT  CodeGPT: 提高编程能力的关键在于数据。CodeGPT是通过GPT生成的用于GPT的代码对话数据集。现在公开了32K条中文数据，让模型更擅长编程
+ - Open Code Large Language Models for Code Understanding and Generation  CodeT5+：面向代码理解和生成的开放大型代码语言模型
 
 ## LLMs evaluation
  - https://github.com/ninehills/llm-playground  可同时比较多个prompt和多个chatGPT的输出
@@ -119,6 +121,7 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
  - 《Toxicity in ChatGPT: Analyzing Persona-assigned Language Models》A Deshpande, V Murahari, T Rajpurohit, A Kalyan, K Narasimhan [Princeton University & The Allen Institute for AI & Georgia Tech] (2023)
  - 《Multi-step Jailbreaking Privacy Attacks on ChatGPT》H Li, D Guo, W Fan, M Xu, Y Song [Hong Kong University of Science and Technology & Peking University] (2023)
  - github.com/Cranot/chatbot-injections-exploits 收集了一些Chatbot注入和漏洞的例子，以帮助人们了解Chatbot的潜在漏洞和脆弱性
+ - Large Language Models Can Be Used To Effectively Scale Spear Phishing Campaigns 探讨了大型语言模型(LLM)如何用于钓鱼攻击
    
 ## 资料汇总
 1. 类ChatGPT模型汇总：https://github.com/chenking2020/FindTheChatGPTer
