@@ -62,6 +62,7 @@ Some note about LLMs
  - RLHF数据集：Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation，面向文本到图像生成的用户偏好开放数据集
  - LLM人工偏好数据集相关资源列表,包括自然语言处理、计算机视觉和音乐生成等. github.com/glgh/awesome-llm-human-preference-datasets
  - github.com/PKU-Alignment/safe-rlhf  安全强化学习人工反馈框架Beaver，保障AI对人类价值观的精准对齐。首个结合安全偏好的RLHF框架，支持多模型训练，数据可复现
+ - [CL] Aligning Large Language Models through Synthetic Feedback. 人工合成反馈，据称与RLHF效果相同
 
 ## milti-model LLMs
  - github.com/open-mmlab/Multimodal-GPT  基于OpenFlamingo多模态模型，使用各种开放数据集创建各种视觉指导数据，联合训练视觉和语言指导，有效提高模型性能
@@ -116,6 +117,8 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
     
  What does ChatGPT return about human values? Exploring value bias in ChatGPT using a descriptive value theory
    用描述性价值理论探索ChatGPT的价值偏差
+ 
+ - "According to ..." Prompting Language Models Improves Quoting from Pre-Training Data. 用"According to ..."提示语言模型改善对预训练数据的引用
  
 ## LLMs with security, privacy 
  - 《Toxicity in ChatGPT: Analyzing Persona-assigned Language Models》A Deshpande, V Murahari, T Rajpurohit, A Kalyan, K Narasimhan [Princeton University & The Allen Institute for AI & Georgia Tech] (2023)
