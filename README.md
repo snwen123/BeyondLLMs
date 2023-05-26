@@ -45,6 +45,7 @@ Some note about LLMs
  - github.com/SCIR-HI/Med-ChatGLM 基于ChatGML的医疗领域微调
  - https://github.com/MediaBrain-SJTU/MedicalGPT-zh ，基于ChatGLM-6B的中文医疗领域LoRa微调。中文医疗通用语言模型，基于28个科室的医疗共识与临床指南文本，提高模型的医疗领域知识与对话能力
  - github.com/CogStack/OpenGPT  OpenGPT：用于创建基于指令的数据集并训练对话领域专家大型语言模型(LLMs)的框架。已经成功应用于训练健康护理对话模型NHS-LLM，利用来自英国国家卫生服务体系(NHS)网站的数据，生成了大量的问答对和独特对话。此外，OpenGPT还提供了如何创建并训练一个小型健康护理对话LLM的教程
+ - QiZhenGPT: An Open Source Chinese Medical Large Language Model' CMKRG GitHub: github.com/CMKRG/QiZhenGPT  启真医学大模型，利用启真医学知识库构建的中文医学指令数据集，并基于此在LLaMA-7B模型上进行指令精调，大幅提高了模型在中文医疗场景下效果，首先针对药品知识问答发布了评测数据集，后续计划优化疾病、手术、检验等方面的问答效果，并针对医患问答、病历自动生成等应用展开拓展
 
 金融领域ChatGPT:
  - https://finchat.io/
@@ -63,6 +64,7 @@ Some note about LLMs
  - LLM人工偏好数据集相关资源列表,包括自然语言处理、计算机视觉和音乐生成等. github.com/glgh/awesome-llm-human-preference-datasets
  - github.com/PKU-Alignment/safe-rlhf  安全强化学习人工反馈框架Beaver，保障AI对人类价值观的精准对齐。首个结合安全偏好的RLHF框架，支持多模型训练，数据可复现
  - [CL] Aligning Large Language Models through Synthetic Feedback. 人工合成反馈，据称与RLHF效果相同
+ - AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback - A Simulation Framework for RLHF and alternatives' Tatsu's shared repositories GitHub: github.com/tatsu-lab/alpaca_farm  AlpacaFarm: 一个模拟框架，用于人工反馈学习方法的研究和开发，促进指令遵循和对齐的可访问性研究。该框架包括模拟语言模型的偏好反馈、自动评估方法以及基准算法的参考实现
 
 ## milti-model LLMs
  - github.com/open-mmlab/Multimodal-GPT  基于OpenFlamingo多模态模型，使用各种开放数据集创建各种视觉指导数据，联合训练视觉和语言指导，有效提高模型性能
@@ -82,6 +84,8 @@ Some note about LLMs
  - 混合精度训练、DDP、gradient checkpoing：https://zhuanlan.zhihu.com/p/448395808
  - 基于ChatGLM的几种精调方法：https://github.com/hiyouga/ChatGLM-Efficient-Tuning/blob/main/README_zh.md
  - 大语言模型精调技术笔记： https://github.com/ninehills/ninehills.github.io/issues/92
+ - LoRa检查器：https://github.com/rockerBOO/lora-inspector 
+ - QLoRa在单个GPU上微调65B LLaMA语言模型： 《QLoRA: Efficient Finetuning of Quantized LLMs》T Dettmers, A Pagnoni, A Holtzman, L Zettlemoyer [University of Washington] (2023)
 
 ## LLMs for code generation 
  - 基于LLaMA－7B: https://github.com/FSoft-AI4Code/CodeCapybara#humaneval
@@ -119,6 +123,8 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
    用描述性价值理论探索ChatGPT的价值偏差
  
  - "According to ..." Prompting Language Models Improves Quoting from Pre-Training Data. 用"According to ..."提示语言模型改善对预训练数据的引用
+ - Transformer注意力权重可视化： https://github.com/mattneary/attention
+ - CNN可视化：https://github.com/okdalto/CNN-visualization
  
 ## LLMs with security, privacy 
  - 《Toxicity in ChatGPT: Analyzing Persona-assigned Language Models》A Deshpande, V Murahari, T Rajpurohit, A Kalyan, K Narasimhan [Princeton University & The Allen Institute for AI & Georgia Tech] (2023)
