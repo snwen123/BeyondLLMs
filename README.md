@@ -21,6 +21,7 @@ Some note about LLMs
  - Panda: github.com/dandelionsllm/pandallm  海外中文开源大语言模型，基于 Llama-7B, -13B, -33B, -65B 进行中文领域上的持续预训练，使用了接近15M条数据，并针对推理能力在中文benchmark上进行了评测
  - Lamini:  https://lamini.ai/   基于统一接口的大语言模型
  - Lit-LLaMA:　https://github.com/Lightning-AI/lit-llama/tree/main
+ - CaMA: A Chinese-English Bilingual LLaMA Model - CaMA: A Chinese-English Bilingual LLaMA Model.' ZJUNLP GitHub: github.com/zjunlp/CaMA 。CaMA: 一种支持中英语言的LLaMA模型，通过全量预训练和指令微调提高了中文理解能力、知识储备和指令理解能力
    
    LLaMA模型的精调
    
@@ -32,10 +33,9 @@ Some note about LLMs
  - miniGPT-4:  https://github.com/Vision-CAIR/MiniGPT-4
  - PaLM开源复现 https://github.com/conceptofmind/PaLM
  - 中文增量预训练的LLaMA
-   
    https://github.com/OpenLMLab/OpenChineseLLaMA ， LLaMA-7B
-   
    https://github.com/ymcui/Chinese-LLaMA-Alpaca  ， LLaMA-7B、LLaMA-13B
+ - 'Axolotl - Go ahead and axolotl questions' OpenAccess-AI-Collective GitHub: github.com/OpenAccess-AI-Collective/axolotl  一个用于微调的代码库，支持使用不同的模型和注意力机制进行微调
 
 ## domain LLMs
 医疗领域ChatGPT：
@@ -46,6 +46,7 @@ Some note about LLMs
  - https://github.com/MediaBrain-SJTU/MedicalGPT-zh ，基于ChatGLM-6B的中文医疗领域LoRa微调。中文医疗通用语言模型，基于28个科室的医疗共识与临床指南文本，提高模型的医疗领域知识与对话能力
  - github.com/CogStack/OpenGPT  OpenGPT：用于创建基于指令的数据集并训练对话领域专家大型语言模型(LLMs)的框架。已经成功应用于训练健康护理对话模型NHS-LLM，利用来自英国国家卫生服务体系(NHS)网站的数据，生成了大量的问答对和独特对话。此外，OpenGPT还提供了如何创建并训练一个小型健康护理对话LLM的教程
  - QiZhenGPT: An Open Source Chinese Medical Large Language Model' CMKRG GitHub: github.com/CMKRG/QiZhenGPT  启真医学大模型，利用启真医学知识库构建的中文医学指令数据集，并基于此在LLaMA-7B模型上进行指令精调，大幅提高了模型在中文医疗场景下效果，首先针对药品知识问答发布了评测数据集，后续计划优化疾病、手术、检验等方面的问答效果，并针对医患问答、病历自动生成等应用展开拓展
+ - XrayGLM - 首个会看胸部X光片的中文多模态医学大模型 | The first Chinese Medical Multimodal Model that Chest Radiographs Summarization.' WangRongsheng GitHub: github.com/WangRongsheng/XrayGLM
 
 金融领域ChatGPT:
  - https://finchat.io/
