@@ -22,12 +22,11 @@ Some note about LLMs
  - Lamini:  https://lamini.ai/   基于统一接口的大语言模型
  - Lit-LLaMA:　https://github.com/Lightning-AI/lit-llama/tree/main
  - CaMA: A Chinese-English Bilingual LLaMA Model - CaMA: A Chinese-English Bilingual LLaMA Model.' ZJUNLP GitHub: github.com/zjunlp/CaMA 。CaMA: 一种支持中英语言的LLaMA模型，通过全量预训练和指令微调提高了中文理解能力、知识储备和指令理解能力
+ - CPM-Bee: github.com/OpenBMB/CPM-Bee  'CPM-Bee - 完全开源、允许商用的百亿参数中英文基座模型，采用Transformer自回归架构（auto-regressive），在超万亿（trillion）高质量语料上进行预训练，拥有强大的基础能力。开发者和研究者可以在CPM-Bee基座模型的基础上在各类场景进行适配来以创建特定领域的应用模型
    
-   LLaMA模型的精调
-   
-   来自Lit-LLaMA的lit-stablelm：https://github.com/Lightning-AI/lit-stablelm
+ ## LLM微调
+ - 来自Lit-LLaMA的lit-stablelm：https://github.com/Lightning-AI/lit-stablelm
  - LLMTune: https://github.com/kuleshov-group/llmtune
-   
    在消费级GPU上微调大型65B+LLM。可以在普通消费级GPU上进行4位微调，例如最大的65B LLAMA模型。LLMTune还实现了LoRA算法和GPTQ算法来压缩和量化LLM，并通过数据并行处理大型模型。此外，LLMTune提供了命令行界面和Python库的使用方式
  - bactrain-x: https://github.com/mbzuai-nlp/bactrian-x  多语言指令遵循模型
  - miniGPT-4:  https://github.com/Vision-CAIR/MiniGPT-4
@@ -36,6 +35,7 @@ Some note about LLMs
    https://github.com/OpenLMLab/OpenChineseLLaMA ， LLaMA-7B
    https://github.com/ymcui/Chinese-LLaMA-Alpaca  ， LLaMA-7B、LLaMA-13B
  - 'Axolotl - Go ahead and axolotl questions' OpenAccess-AI-Collective GitHub: github.com/OpenAccess-AI-Collective/axolotl  一个用于微调的代码库，支持使用不同的模型和注意力机制进行微调
+ - 多卡微调ChatGLM-6B， 简单高效实现多卡微调大模型，目前已实现LoRA, Ptuning-v2, Freeze三种微调方式  github.com/CSHaitao/ChatGLM_mutli_gpu_tuning
 
 ## domain LLMs
 医疗领域ChatGPT：
@@ -66,6 +66,7 @@ Some note about LLMs
  - github.com/PKU-Alignment/safe-rlhf  安全强化学习人工反馈框架Beaver，保障AI对人类价值观的精准对齐。首个结合安全偏好的RLHF框架，支持多模型训练，数据可复现
  - [CL] Aligning Large Language Models through Synthetic Feedback. 人工合成反馈，据称与RLHF效果相同
  - AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback - A Simulation Framework for RLHF and alternatives' Tatsu's shared repositories GitHub: github.com/tatsu-lab/alpaca_farm  AlpacaFarm: 一个模拟框架，用于人工反馈学习方法的研究和开发，促进指令遵循和对齐的可访问性研究。该框架包括模拟语言模型的偏好反馈、自动评估方法以及基准算法的参考实现
+ - [CL] Training Socially Aligned Language Models in Simulated Human Society 在模拟人类社会中训练社会化对齐的语言模型
 
 ## milti-model LLMs
  - github.com/open-mmlab/Multimodal-GPT  基于OpenFlamingo多模态模型，使用各种开放数据集创建各种视觉指导数据，联合训练视觉和语言指导，有效提高模型性能
