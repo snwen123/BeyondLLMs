@@ -36,6 +36,7 @@ Some note about LLMs
    https://github.com/ymcui/Chinese-LLaMA-Alpaca  ， LLaMA-7B、LLaMA-13B
  - 'Axolotl - Go ahead and axolotl questions' OpenAccess-AI-Collective GitHub: github.com/OpenAccess-AI-Collective/axolotl  一个用于微调的代码库，支持使用不同的模型和注意力机制进行微调
  - 多卡微调ChatGLM-6B， 简单高效实现多卡微调大模型，目前已实现LoRA, Ptuning-v2, Freeze三种微调方式  github.com/CSHaitao/ChatGLM_mutli_gpu_tuning
+ - LLaMA全流程微调：PT+STF+RLHF github.com/hiyouga/LLaMA-Efficient-Tuning  
 
 ## domain LLMs
 医疗领域ChatGPT：
@@ -53,9 +54,13 @@ Some note about LLMs
 
 法律领域ChatGPT:
  - github.com/LiuHC0428/LAW-GPT 中文法律对话语言模型
+ - github.com/CSHaitao/LexiLaw LexiLaw - 中文法律大模型
 
 化学领域ChatGPT:
  - github.com/OpenBioML/chemnlp
+
+数学领域ChatGPT:
+ - Goat: 擅长算术任务的LLaMA微调模型  github.com/liutiedong/goat  基于LLaMA
 
 ## LLMs和RL
  - TRL和TRL-RLHF-LLaMa：https://huggingface.co/blog/stackllama
