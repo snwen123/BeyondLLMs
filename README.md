@@ -37,6 +37,7 @@ Some note about LLMs
  - 'Axolotl - Go ahead and axolotl questions' OpenAccess-AI-Collective GitHub: github.com/OpenAccess-AI-Collective/axolotl  一个用于微调的代码库，支持使用不同的模型和注意力机制进行微调
  - 多卡微调ChatGLM-6B， 简单高效实现多卡微调大模型，目前已实现LoRA, Ptuning-v2, Freeze三种微调方式  github.com/CSHaitao/ChatGLM_mutli_gpu_tuning
  - LLaMA全流程微调：PT+STF+RLHF github.com/hiyouga/LLaMA-Efficient-Tuning  
+ - github.com/yzfly/LangGPT  LangGPT：让人人都可快速编写高质量 Prompt，LangGPT 项目旨在以结构化、模板化的方式编写高质量 ChatGPT prompt，可以将其视为一种面向大模型的 prompt 编程语言
 
 ## domain LLMs
 医疗领域ChatGPT：
