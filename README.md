@@ -106,6 +106,7 @@ Some note about LLMs
  - https://github.com/ninehills/llm-playground  可同时比较多个prompt和多个chatGPT的输出
  - https://github.com/mbzuai-nlp/LaMini-LM  使用多个nlp下游任务
  - https://github.com/WeOpenML/PandaLM/blob/main/README.md  可复现的自动化评估大语言模型
+ - https://github.com/CLUEbenchmark/SuperCLUELYB  SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
 
 ## LLMs pruners:
 LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
