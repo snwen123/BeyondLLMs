@@ -85,6 +85,7 @@ Some note about LLMs
  - 《mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality}》(2023) GitHub: github.com/X-PLUG/mPLUG-Owl
  - LLaVA：https://llava-vl.github.io/  使用GPT-4生成多模态指令
  - https://github.com/DAMO-NLP-SG/Video-LLaMA   视频指令
+ - https://github.com/DAMO-NLP-SG/Video-LLaMA/tree/main  Video-LLaMA，Vicuna-13B
 
 ## LLMs data
  - 指令数据集合: https://github.com/FreedomIntelligence/InstructionZoo
