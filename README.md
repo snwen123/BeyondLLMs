@@ -23,6 +23,7 @@ Some note about LLMs
  - Lit-LLaMA:　https://github.com/Lightning-AI/lit-llama/tree/main
  - CaMA: A Chinese-English Bilingual LLaMA Model - CaMA: A Chinese-English Bilingual LLaMA Model.' ZJUNLP GitHub: github.com/zjunlp/CaMA 。CaMA: 一种支持中英语言的LLaMA模型，通过全量预训练和指令微调提高了中文理解能力、知识储备和指令理解能力
  - CPM-Bee: github.com/OpenBMB/CPM-Bee  'CPM-Bee - 完全开源、允许商用的百亿参数中英文基座模型，采用Transformer自回归架构（auto-regressive），在超万亿（trillion）高质量语料上进行预训练，拥有强大的基础能力。开发者和研究者可以在CPM-Bee基座模型的基础上在各类场景进行适配来以创建特定领域的应用模型
+ - Chinese-Guanaco github.com/jianzhnie/Chinese-Guanaco  中文Guanaco(原驼)大语言模型 QLora 量化训练 +本地CPU/GPU部署
    
  ## LLM微调
  - 来自Lit-LLaMA的lit-stablelm：https://github.com/Lightning-AI/lit-stablelm
@@ -50,6 +51,8 @@ Some note about LLMs
  - QiZhenGPT: An Open Source Chinese Medical Large Language Model' CMKRG GitHub: github.com/CMKRG/QiZhenGPT  启真医学大模型，利用启真医学知识库构建的中文医学指令数据集，并基于此在LLaMA-7B模型上进行指令精调，大幅提高了模型在中文医疗场景下效果，首先针对药品知识问答发布了评测数据集，后续计划优化疾病、手术、检验等方面的问答效果，并针对医患问答、病历自动生成等应用展开拓展
  - XrayGLM - 首个会看胸部X光片的中文多模态医学大模型 | The first Chinese Medical Multimodal Model that Chest Radiographs Summarization.' WangRongsheng GitHub: github.com/WangRongsheng/XrayGLM
  - github.com/michael-wzhu/PromptCBLUE  PromptCBLUE：中文医疗大模型评测基准
+ - github.com/michael-wzhu/ChatMed ChatMed 中文医疗大模型，基于中文医疗在线问诊数据集
+
 
 金融领域ChatGPT:
  - https://finchat.io/
@@ -75,6 +78,7 @@ Some note about LLMs
  - AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback - A Simulation Framework for RLHF and alternatives' Tatsu's shared repositories GitHub: github.com/tatsu-lab/alpaca_farm  AlpacaFarm: 一个模拟框架，用于人工反馈学习方法的研究和开发，促进指令遵循和对齐的可访问性研究。该框架包括模拟语言模型的偏好反馈、自动评估方法以及基准算法的参考实现
  - [CL] Training Socially Aligned Language Models in Simulated Human Society 在模拟人类社会中训练社会化对齐的语言模型
  - https://kaistai.github.io/SelFee/  SelFee：新的指令遵循语言模型，产生自我反馈的回应并基于反馈自我修订，使用包含由 ChatGPT 生成的自我反馈和修订数据的178K 训练实例对 LLaMA 模型(7B，13B)进行了微调
+ - LLM-Pref-Mark-UI：为生成文本的人工反馈偏好提供了一个Gradio用户界面(UI)，可用于训练人工反馈强化学习的奖励模型   github.com/deep-diver/LLM-Pref-Mark-UI
 
 ## milti-model LLMs
  - github.com/open-mmlab/Multimodal-GPT  基于OpenFlamingo多模态模型，使用各种开放数据集创建各种视觉指导数据，联合训练视觉和语言指导，有效提高模型性能
@@ -93,6 +97,7 @@ Some note about LLMs
  - 轻量化微调工具：https://github.com/OpenLMLab/TuneLite  支持Coloss
  - 混合精度训练、DDP、gradient checkpoing：https://zhuanlan.zhihu.com/p/448395808
  - 基于ChatGLM的几种精调方法：https://github.com/hiyouga/ChatGLM-Efficient-Tuning/blob/main/README_zh.md
+ - github.com/CSHaitao/ChatGLM_mutli_gpu_tuning  ChatGLM_multi_gpu_zero_Tuning - deepspeed+trainer简单高效实现多卡微调大模型，目前已实现LoRA, Ptuning-v2, Freeze三种微调方式
  - 大语言模型精调技术笔记： https://github.com/ninehills/ninehills.github.io/issues/92
  - LoRa检查器：https://github.com/rockerBOO/lora-inspector 
  - QLoRa在单个GPU上微调65B LLaMA语言模型： 《QLoRA: Efficient Finetuning of Quantized LLMs》T Dettmers, A Pagnoni, A Holtzman, L Zettlemoyer [University of Washington] (2023)
