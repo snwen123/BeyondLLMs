@@ -86,6 +86,7 @@ Some note about LLMs
  - LLaVA：https://llava-vl.github.io/  使用GPT-4生成多模态指令
  - https://github.com/DAMO-NLP-SG/Video-LLaMA   视频指令
  - https://github.com/DAMO-NLP-SG/Video-LLaMA/tree/main  Video-LLaMA，Vicuna-13B
+ - github.com/BradyFU/Awesome-Multimodal-Large-Language-Models  多模态LLM相关研究
 
 ## LLMs data
  - 指令数据集合: https://github.com/FreedomIntelligence/InstructionZoo
