@@ -46,12 +46,14 @@ Some note about LLMs
  - github.com/kbressem/medAlpaca 基于LLaMA-7B
  - https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese ， 华佗，基于LLaMA的医疗领域微调
  - github.com/SCIR-HI/Med-ChatGLM 基于ChatGML的医疗领域微调
+ - github.com/WangRongsheng/MedQA-ChatGLM 基于真实医疗对话数据在ChatGLM上进行LoRA、P-Tuning V2、Freeze、RLHF等微调
  - https://github.com/MediaBrain-SJTU/MedicalGPT-zh ，基于ChatGLM-6B的中文医疗领域LoRa微调。中文医疗通用语言模型，基于28个科室的医疗共识与临床指南文本，提高模型的医疗领域知识与对话能力
  - github.com/CogStack/OpenGPT  OpenGPT：用于创建基于指令的数据集并训练对话领域专家大型语言模型(LLMs)的框架。已经成功应用于训练健康护理对话模型NHS-LLM，利用来自英国国家卫生服务体系(NHS)网站的数据，生成了大量的问答对和独特对话。此外，OpenGPT还提供了如何创建并训练一个小型健康护理对话LLM的教程
  - QiZhenGPT: An Open Source Chinese Medical Large Language Model' CMKRG GitHub: github.com/CMKRG/QiZhenGPT  启真医学大模型，利用启真医学知识库构建的中文医学指令数据集，并基于此在LLaMA-7B模型上进行指令精调，大幅提高了模型在中文医疗场景下效果，首先针对药品知识问答发布了评测数据集，后续计划优化疾病、手术、检验等方面的问答效果，并针对医患问答、病历自动生成等应用展开拓展
  - XrayGLM - 首个会看胸部X光片的中文多模态医学大模型 | The first Chinese Medical Multimodal Model that Chest Radiographs Summarization.' WangRongsheng GitHub: github.com/WangRongsheng/XrayGLM
  - github.com/michael-wzhu/PromptCBLUE  PromptCBLUE：中文医疗大模型评测基准
  - github.com/michael-wzhu/ChatMed ChatMed 中文医疗大模型，基于中文医疗在线问诊数据集
+ - LLaVA-Med: 视觉-语言医疗问答模型， LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day
 
 
 金融领域ChatGPT:
@@ -161,3 +163,4 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
 8. 非官方ChatGPT资源合集：github.com/sindresorhus/awesome-chatgpt
 9. https://github.com/RUCAIBox/LLMSurvey/tree/main
 10. 生成式人工智能（第二版）：https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition
+11. LLM模型列表：https://www.promptingguide.ai/applications/generating
