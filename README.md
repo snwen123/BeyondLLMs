@@ -90,6 +90,7 @@ Some note about LLMs
  - https://github.com/DAMO-NLP-SG/Video-LLaMA   视频指令
  - https://github.com/DAMO-NLP-SG/Video-LLaMA/tree/main  Video-LLaMA，Vicuna-13B
  - github.com/BradyFU/Awesome-Multimodal-Large-Language-Models  多模态LLM相关研究
+ - Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding， 视频-语言LLaMA
 
 ## LLMs data
  - 指令数据集合: https://github.com/FreedomIntelligence/InstructionZoo
