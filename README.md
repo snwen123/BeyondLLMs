@@ -54,6 +54,7 @@ Some note about LLMs
  - github.com/michael-wzhu/PromptCBLUE  PromptCBLUE：中文医疗大模型评测基准
  - github.com/michael-wzhu/ChatMed ChatMed 中文医疗大模型，基于中文医疗在线问诊数据集
  - LLaVA-Med: 视觉-语言医疗问答模型， LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day
+ - MedicalGPT: github.com/shibing624/MedicalGPT  训练医疗大模型，实现包括二次预训练、有监督微调、奖励建模、强化学习训练 
 
 
 金融领域ChatGPT:
