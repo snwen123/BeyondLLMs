@@ -58,6 +58,7 @@ Some note about LLMs
 
 金融领域ChatGPT:
  - https://finchat.io/
+ - 轩辕：github.com/Duxiaoman-DI/XuanYuan  轩辕：首个千亿级中文金融对话模型，针对中文金融领域优化的千亿级开源对话大模型，在BLOOM-176B的基础上针对中文通用领域和金融领域进行了针对性的预训练与微调，它不仅可以应对通用领域的问题，也可以解答与金融相关的各类问题，为用户提供准确、全面的金融信息和建议
 
 法律领域ChatGPT:
  - github.com/LiuHC0428/LAW-GPT 中文法律对话语言模型
