@@ -39,6 +39,7 @@ Some note about LLMs
  - 多卡微调ChatGLM-6B， 简单高效实现多卡微调大模型，目前已实现LoRA, Ptuning-v2, Freeze三种微调方式  github.com/CSHaitao/ChatGLM_mutli_gpu_tuning
  - LLaMA全流程微调：PT+STF+RLHF github.com/hiyouga/LLaMA-Efficient-Tuning  
  - github.com/yzfly/LangGPT  LangGPT：让人人都可快速编写高质量 Prompt，LangGPT 项目旨在以结构化、模板化的方式编写高质量 ChatGPT prompt，可以将其视为一种面向大模型的 prompt 编程语言
+ - https://shermwong.com/2023/02/04/llm-studies-part-1/  LLM预训练可行性
 
 ## domain LLMs
 医疗领域ChatGPT：
@@ -119,6 +120,7 @@ Some note about LLMs
  - https://github.com/mbzuai-nlp/LaMini-LM  使用多个nlp下游任务
  - https://github.com/WeOpenML/PandaLM/blob/main/README.md  可复现的自动化评估大语言模型
  - https://github.com/CLUEbenchmark/SuperCLUELYB  SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
+ - Benchmarking Foundation Models with Language-Model-as-an-Examiner
 
 ## LLMs pruners:
 LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
@@ -154,6 +156,7 @@ LLMs裁剪工具：https://github.com/yangjianxin1/LLMPruner
  - 《Multi-step Jailbreaking Privacy Attacks on ChatGPT》H Li, D Guo, W Fan, M Xu, Y Song [Hong Kong University of Science and Technology & Peking University] (2023)
  - github.com/Cranot/chatbot-injections-exploits 收集了一些Chatbot注入和漏洞的例子，以帮助人们了解Chatbot的潜在漏洞和脆弱性
  - Large Language Models Can Be Used To Effectively Scale Spear Phishing Campaigns 探讨了大型语言模型(LLM)如何用于钓鱼攻击
+ - On the Reliability of Watermarks for Large Language Models 模型水印
    
 ## 资料汇总
 1. 类ChatGPT模型汇总：https://github.com/chenking2020/FindTheChatGPTer
